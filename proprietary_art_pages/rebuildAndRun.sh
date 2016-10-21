@@ -1,0 +1,1 @@
+rspec ASO_suite.rb --format documentation
